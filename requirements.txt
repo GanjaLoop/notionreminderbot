@@ -1,0 +1,3 @@
+python-telegram-bot==13.14
+SQLAlchemy
+urllib3==1.26.16
